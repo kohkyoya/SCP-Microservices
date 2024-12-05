@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "FYgUXV+EaqQ=",
+  "dgSpecHash": "dRM50mxu5HQ=",
   "success": true,
   "projectFilePath": "D:\\source\\repos\\SCP-Microservices\\SCP-Microservices\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kohky\\.nuget\\packages\\carter\\8.2.1\\carter.8.2.1.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\carter.analyzers\\8.2.1\\carter.analyzers.8.2.1.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\fluentvalidation\\11.8.0\\fluentvalidation.11.8.0.nupkg.sha512",
+    "C:\\Users\\Kohky\\.nuget\\packages\\mapster\\7.4.0\\mapster.7.4.0.nupkg.sha512",
+    "C:\\Users\\Kohky\\.nuget\\packages\\mapster.core\\1.2.1\\mapster.core.1.2.1.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.4\\microsoft.codeanalysis.analyzers.3.3.4.nupkg.sha512",
