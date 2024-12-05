@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "iAfiWbYTsUs=",
+  "dgSpecHash": "NwAxARaE8+c=",
   "success": true,
   "projectFilePath": "D:\\source\\repos\\SCP-Microservices\\SCP-Microservices\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Kohky\\.nuget\\packages\\mediatr\\12.4.1\\mediatr.12.4.1.nupkg.sha512",
+    "C:\\Users\\Kohky\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Kohky\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
     "C:\\Users\\Kohky\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
