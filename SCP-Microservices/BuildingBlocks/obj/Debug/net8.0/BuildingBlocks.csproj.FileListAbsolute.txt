@@ -1,0 +1,13 @@
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.deps.json
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.dll
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\bin\Debug\net8.0\BuildingBlocks.pdb
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.AssemblyReference.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfoInputs.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.AssemblyInfo.cs
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.csproj.CoreCompileInputs.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.sourcelink.json
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.dll
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\refint\BuildingBlocks.dll
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\BuildingBlocks.pdb
+D:\source\repos\SCP-Microservices\SCP-Microservices\BuildingBlocks\obj\Debug\net8.0\ref\BuildingBlocks.dll

@@ -1,0 +1,7 @@
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.AssemblyReference.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfoInputs.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.AssemblyInfo.cs
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.csproj.CoreCompileInputs.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\SCP-Microservices\SCP-Microservices\Catalog.API\obj\Debug\net8.0\Catalog.API.sourcelink.json
